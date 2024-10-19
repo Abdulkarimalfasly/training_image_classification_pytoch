@@ -12,4 +12,4 @@ For testing:
 
 Result samples:
 
-[](results.png)
+![](results.png)
